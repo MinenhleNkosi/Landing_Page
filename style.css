@@ -50,12 +50,17 @@ body {
     margin-right: 20px;
 }
 
+.title {
+    margin-top: 10px;
+    color: black;
+}
+
 h1 {
     font-size: 48px;
     font-weight: 900;
     color: #F9FAF8;
     padding: 0;
-    margin: 0;
+    margin-bottom: 10px;
 }
 
 .hero-text {
@@ -81,7 +86,7 @@ h2 {
     font-weight: 900;
     color: #1F2937;
     text-align: center;
-    margin-top: -50px;
+    margin-top: 10px;
 }
 
 .card-container {
@@ -121,6 +126,14 @@ h2 {
     font-weight: 300;
     font-style: italic;
     color: #1F2937;
+}
+
+.quote-texts {
+    font-size: 30px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+    text-align: justify;
 }
 
 .quote-author {
